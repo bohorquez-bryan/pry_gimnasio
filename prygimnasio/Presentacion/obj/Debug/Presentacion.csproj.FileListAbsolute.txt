@@ -1,0 +1,16 @@
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\Presentacion\obj\Debug\Presentacion.pdb

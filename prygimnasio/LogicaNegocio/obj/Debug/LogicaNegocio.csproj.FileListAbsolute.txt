@@ -1,0 +1,9 @@
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\steve\Documents\UIsrael\Fundamentos\ProyectoFinal\prygimnasio\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
